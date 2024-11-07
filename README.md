@@ -22,6 +22,7 @@ The recognizability and protectiveness  of vehicles themselves are crucial to tr
 
 **Referencing the experiments in the paper, first train using the** `ultralytics/cfg/models/VBM/VBM_YOLO_AGB.yaml` **configuration file, incorporating the AGB branch during training. After training is completed, the resulting weight file (.pt) should be reparameterized using** `reparameterization.ipynb`**.** **This process will reconstruct the trained parameters back into** `ultralytics/cfg/models/VBM/VBM_YOLO`**, producing a new weight file (.pt).**
 
+## Get Start
 ### **Training & testing**
 
 1.Train   ()
