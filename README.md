@@ -1,5 +1,6 @@
 # Enhanced YOLO Model with Cross-Spatial-Channel Attention
 
+## Introduction
 In vehicle safety detection, identifying body markers on medium and large vehicles is crucial for ensur-
 ing safe road travel. This study proposes an enhanced Vehicle Body Markers YOLO (VBM-YOLO)
 model to address the information loss issues in previous YOLO series models. VBM-YOLO inte-
