@@ -25,11 +25,11 @@ The recognizability and protectiveness  of vehicles themselves are crucial to tr
 ## Get Start
 ### **Training & testing**
 
-1.Train   ()
+**1.Train   ()**
 
 `python train.py`
 
-1.Test
+**2.Test**
 
 `python test.py`
 
