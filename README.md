@@ -27,11 +27,11 @@ The recognizability and protectiveness  of vehicles themselves are crucial to tr
 
 1.Train   ()
 
-`python train.py`
+`python train.py                                                          `
 
 1.Test
 
-`python test.py`
+`python test.py                                                           `
 
 ### Dataset
 
