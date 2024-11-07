@@ -1,0 +1,11 @@
+train:
+val: 
+
+# Classes
+names:
+  0: ref
+  1: gua
+  2: rear
+  3: sideRef
+  4: sideGua
+  5: triangle
