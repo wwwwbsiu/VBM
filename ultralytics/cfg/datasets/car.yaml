@@ -1,0 +1,11 @@
+train: D:\deep-learning-for-image-processing-master\ultralytics-8.1.0\ultralytics-8.1.0\ultralytics\cfg\datasets\car_7000\train
+val: D:\deep-learning-for-image-processing-master\ultralytics-8.1.0\ultralytics-8.1.0\ultralytics\cfg\datasets\car_7000\val
+
+# Classes
+names:
+  0: ref
+  1: gua
+  2: rear
+  3: sideRef
+  4: sideGua
+  5: triangle
