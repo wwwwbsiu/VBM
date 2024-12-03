@@ -40,7 +40,7 @@ PASCAL VOC : http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit
 
 D-Fire:[gaiasd/DFireDataset: D-Fire: an image data set for fire and smoke detection.](https://github.com/gaiasd/DFireDataset)
 
-vehicle body markers dataset (our dataset) :https://pan.baidu.com/s/1hDMtZk-nAwgu7JG4taJWqQ  code:qpzy
+vehicle body markers dataset (our dataset) :https://pan.baidu.com/s/1hDMtZk-nAwgu7JG4taJWqQ  code:qpzy    or DOI: https://doi.org/10.5281/zenodo.14264265
 
 
 
